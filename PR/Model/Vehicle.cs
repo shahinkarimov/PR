@@ -14,7 +14,5 @@ namespace PR.Model
         public double Mile { get; set; }
         public string MyProperty { get; set; }
 
-
-
     }
 }
